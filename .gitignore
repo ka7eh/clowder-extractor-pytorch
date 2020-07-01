@@ -1,0 +1,7 @@
+!.env
+
+clowder-pytorch-extractor-example/volumes/*
+!clowder-pytorch-extractor-example/volumes/clowder/
+
+clowder-pytorch-extractor-example/volumes/clowder/*
+!clowder-pytorch-extractor-example/volumes/clowder/custom/

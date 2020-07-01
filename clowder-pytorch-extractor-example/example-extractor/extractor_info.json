@@ -1,0 +1,21 @@
+{
+    "@context": "http://clowder.ncsa.illinois.edu/contexts/extractors.jsonld",
+    "name": "example_extractor",
+    "version": "0.1.0",
+    "description": "Example Extractor",
+    "author": "Kaveh Karimi <kaveh@illinois.edu>",
+    "contexts": [],
+    "repository": [
+        {
+            "repType": "git",
+            "repUrl": "opensource.ncsa.illinois.edu:7999/geod/geodashboard-v3.git"
+        }
+    ],
+    "external_services": [],
+    "process": {
+      "file": [
+        "text/csv"
+      ]
+    },
+    "bibtex": [""]
+}
